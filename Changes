@@ -1,0 +1,6 @@
+Revision history for Perl extension Lingua::NO::Num2Word.
+
+0.01  Sun Jun 13 20:25:05 2004
+	- original version; created by h2xs 1.23 with options
+		-AX -n Lingua::NO::Num2Word
+
