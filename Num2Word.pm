@@ -1,5 +1,5 @@
 package Lingua::NO::Num2Word;
-our $VERSION = '0.01';
+$Lingua::NO::Num2Word::VERSION = '0.011';
 
 use strict;
 
@@ -185,11 +185,12 @@ sub num2no_cardinal
 
 =head1 HISTORY
 
+ * [16.06.2004] Version 0.011 released. 
  * [13.06.2004] Version 0.01 released.
 
 =head1 VERSION
 
-This is version 0.01
+This is version 0.011
 
 =head1 AUTHOR
 

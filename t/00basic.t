@@ -51,5 +51,3 @@ ok ( $no_num2word->num2no_cardinal( 1000000000 ) eq '', 'if branch >= 1000000000
 
 # test if max number is supported
 ok ( $no_num2word->num2no_cardinal(  999999999 ) eq 'ni hundre og nitti ni millioner ni hundre og nitti ni tusen ni hundre og nitti ni', '999 999 999 is supported');
-
-
